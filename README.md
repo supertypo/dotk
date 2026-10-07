@@ -7,6 +7,7 @@ You can report issues using https://github.com/supertypo/dotk/issues
 
 | Repo | Description | LICENSE |
 | --- | --- | --- |
+| https://github.com/supertypo/dotk-covenants | Read/prove the .k covenant sources | MIT |
 | https://github.com/supertypo/dotk-sdk | Read/prove TypeScript SDK | MIT |
 | https://github.com/supertypo/dotk-sdk-tx | Write/transaction TypeScript SDK | MIT |
 | https://github.com/supertypo/dotk-core | Protocol library | MIT |
