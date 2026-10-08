@@ -14,7 +14,7 @@ Since dotk is still very young, this list is expected to grow quickly.
 | https://kaspire.kaslab.space | Third-party wallet with .k support and a marketplace |
 | https://www.kurncy.com/wallet.html | Third-party wallet with .k support |
 | https://kastle.cc | Third-party wallet with upcoming .k support |
-| https://kachat.app/home | Third-party messaging (and more) app upcoming .k support |
+| https://kachat.app/home | Third-party messaging (++) app with upcoming .k support |
 
 ## Repositories
 
