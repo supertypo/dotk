@@ -10,11 +10,11 @@ Since dotk is still very young, this list is expected to grow quickly.
 | Name | Description |
 | --- | --- |
 | https://dotk.name | Official .k web app and marketplace |
+| https://kaspa.stream | Official explorer with .k support |
 | https://kaspire.kaslab.space | Third-party wallet with .k support and a marketplace |
 | https://www.kurncy.com/wallet.html | Third-party wallet with .k support |
 | https://kastle.cc | Third-party wallet with upcoming .k support |
 | https://kachat.app/home | Third-party messaging (and more) app upcoming .k support |
-| https://kaspa.stream | Explorer with .k support |
 
 ## Repositories
 
